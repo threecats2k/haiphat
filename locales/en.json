@@ -1,34 +1,34 @@
 {
   "meta": {
     "index": {
-      "title": "Thanh Mich IMEX - Professional Import Export and Trading Company",
-      "description": "Thanh Mich Import Export and Trading Production Company Limited - Professional import-export services, wholesale of furniture and household goods"
+      "title": "HAI PHAT IDC - Professional Investment Development and Construction Company",
+      "description": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services for civil, industrial, transportation and technical infrastructure projects"
     },
     "about": {
-      "title": "About Us - Thanh Mich IMEX | Import Export Company",
-      "description": "About Thanh Mich Import Export and Trading Production Company Limited - Professional import-export services with over 5 years of experience in international trade"
+      "title": "About Us - HAI PHAT IDC | Construction Company",
+      "description": "About HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services with over 6 years of experience"
     },
     "services": {
-      "title": "Services - Thanh Mich IMEX | Import Export & Trading Services",
-      "description": "Thanh Mich IMEX's services: Import-export, furniture wholesale, trading services. High quality, competitive prices"
+      "title": "Services - HAI PHAT IDC | Construction Services",
+      "description": "HAI PHAT IDC's services: Civil construction, industrial construction, transportation construction. High quality, reliable"
     },
     "contact": {
-      "title": "Contact - Thanh Mich IMEX | Import Export Consultation",
-      "description": "Contact Thanh Mich IMEX - Professional import-export company. Address: Te Giap Village, Hat Mon Commune, Hanoi. Phone: 0857 281 982"
+      "title": "Contact - HAI PHAT IDC | Construction Consultation",
+      "description": "Contact HAI PHAT IDC - Professional construction company. Address: Thon 3, Xa Van Phuc, Thanh Tri District, Hanoi. Phone: 0945 838 333"
     },
     "policies": {
-      "title": "Policies - Thanh Mich IMEX | Warranty - Delivery - Return",
-      "description": "Warranty, delivery, and return policies of Thanh Mich IMEX. Commitment to the best product quality and service for customers"
+      "title": "Policies - HAI PHAT IDC | Warranty - Delivery - Return",
+      "description": "Warranty, delivery, and return policies of HAI PHAT IDC. Commitment to the best project quality and service for customers"
     },
     "privacy": {
-      "title": "Privacy Policy - Thanh Mich IMEX",
-      "description": "Privacy policy of Thanh Mich Import Export and Trading Production Company Limited - Commitment to protecting customer information"
+      "title": "Privacy Policy - HAI PHAT IDC",
+      "description": "Privacy policy of HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Commitment to protecting customer information"
     }
   },
   "common": {
-    "logo": "THANH MICH IMEX",
+    "logo": "HAI PHAT IDC",
     "tagline": "Quality - Trust - Professionalism",
-    "phone": "0857 281 982",
+    "phone": "0945 838 333",
     "contactNow": "Contact Now",
     "nav": {
       "home": "Home",
@@ -41,21 +41,21 @@
       "contact": "Contact"
     },
     "footer": {
-      "companyDesc": "Thanh Mich Import Export and Trading Production Company Limited - Professional import-export and furniture wholesale services",
-      "address": "Te Giap Village, Hat Mon Commune, Hanoi, Vietnam",
-      "email": "contact@thanhmichltd.store",
+      "companyDesc": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services for civil, industrial, transportation and technical infrastructure projects",
+      "address": "Thon 3, Xa Van Phuc, Thanh Tri District, Hanoi, Vietnam",
+      "email": "contact@haiphatidc.store",
       "services": "Services",
       "info": "Information",
       "support": "Support",
-      "importExport": "Import Export",
-      "furniture": "Furniture Wholesale",
-      "trading": "Trading Services",
-      "consulting": "Business Consulting",
+      "importExport": "Civil Construction",
+      "furniture": "Industrial Construction",
+      "trading": "Transportation Construction",
+      "consulting": "Technical Infrastructure",
       "warrantyPolicy": "Warranty Policy",
       "deliveryPolicy": "Delivery Policy",
       "returnPolicy": "Return Policy",
       "companyInfo": "Company Information",
-      "copyright": "2024 Thanh Mich Import Export and Trading Production Company Limited. Tax ID: 0108850813"
+      "copyright": "2024 HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY. Tax ID: 0108441190"
     },
     "breadcrumb": {
       "home": "Home"
@@ -63,44 +63,44 @@
   },
   "index": {
     "hero": {
-      "title": "Professional Import Export and Trading Specialist",
-      "subtitle": "Professional import-export services, wholesale of furniture and household goods with international standards",
+      "title": "Professional Construction Specialist",
+      "subtitle": "Professional construction services for civil, industrial, transportation and technical infrastructure projects with international standards",
       "viewServices": "View Services",
       "getQuote": "Contact Us"
     },
     "services": {
       "title": "Main Services",
-      "subtitle": "We provide comprehensive import-export and trading solutions",
+      "subtitle": "We provide comprehensive construction solutions",
       "import": {
-        "title": "Import Export Services",
-        "desc": "Professional import-export services, customs clearance support, international shipping",
+        "title": "Civil Construction",
+        "desc": "Construction of residential buildings, apartments, schools, hospitals and other civil projects",
         "detail": "Details →"
       },
       "furniture": {
-        "title": "Furniture Wholesale",
-        "desc": "Wholesale of beds, cabinets, tables, chairs and similar furniture with high quality and competitive prices",
+        "title": "Industrial Construction",
+        "desc": "Construction of factories, warehouses, industrial facilities with high quality",
         "detail": "Details →"
       },
       "trading": {
-        "title": "Trading Services",
-        "desc": "Comprehensive trading services, sourcing support, negotiation and contract signing",
+        "title": "Transportation Construction",
+        "desc": "Construction of roads, bridges, tunnels and modern transportation infrastructure",
         "detail": "Details →"
       },
       "consulting": {
-        "title": "Business Consulting",
-        "desc": "Consulting on import-export procedures, legal regulations and international trade strategies",
+        "title": "Technical Infrastructure",
+        "desc": "Construction of water supply, drainage, electricity, telecommunications and technical infrastructure",
         "detail": "Details →"
       }
     },
     "whyChoose": {
-      "title": "Why Choose Thanh Mich IMEX?",
+      "title": "Why Choose HAI PHAT IDC?",
       "exp": {
         "title": "Extensive Experience",
-        "desc": "Over 5 years of experience in import-export and international trade, understanding global market needs"
+        "desc": "Over 6 years of experience in construction, completed many large and small projects"
       },
       "quality": {
         "title": "Guaranteed Quality",
-        "desc": "High-quality furniture products, meeting international standards, ensuring durability and aesthetics"
+        "desc": "High-quality construction projects, meeting technical standards, ensuring durability and safety"
       },
       "price": {
         "title": "Competitive Pricing",
@@ -146,10 +146,10 @@
       "experience": "Years of Experience"
     },
     "cta": {
-      "title": "Start Your Business Partnership Today",
-      "subtitle": "Contact us for free consultation on import-export services",
+      "title": "Start Your Construction Project Today",
+      "subtitle": "Contact us for free consultation on construction services",
       "contact": "Contact Now",
-      "call": "Call: 0857 281 982"
+      "call": "Call: 0945 838 333"
     }
   },
   "contact": {
@@ -219,16 +219,16 @@
   },
   "about": {
     "pageTitle": "About the Company",
-    "pageSubtitle": "Thanh Mich Import Export and Trading Production Company Limited - Professional import-export and furniture wholesale",
+    "pageSubtitle": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services",
     "breadcrumb": "About",
     "intro": {
-      "title": "About Thanh Mich Import Export and Trading Production Company Limited",
-      "desc": "Thanh Mich Import Export and Trading Production Company Limited was established on August 5, 2019, with the goal of becoming a leading unit in the field of import-export and trading in Vietnam. With over 5 years of experience in import-export, we are proud to be a trusted partner of hundreds of businesses domestically and internationally."
+      "title": "About HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY",
+      "desc": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY was established on September 24, 2018, with the goal of becoming a leading unit in the field of construction in Vietnam. With over 6 years of experience in construction, we are proud to be a trusted partner of hundreds of businesses domestically and internationally."
     },
     "mission": {
       "title": "Mission & Vision",
       "missionTitle": "Mission",
-      "missionDesc": "We are committed to providing professional import-export services and high-quality furniture products that meet all customer requirements. Each transaction reflects the dedication, professionalism and responsibility of the Thanh Mich IMEX team.",
+      "missionDesc": "We are committed to providing professional construction services and high-quality projects that meet all customer requirements. Each project reflects the dedication, professionalism and responsibility of the HAI PHAT IDC team.",
       "visionTitle": "Vision",
       "visionDesc": "To become Vietnam's leading import-export and trading company, trusted and chosen by customers thanks to outstanding service quality, professionalism and competitive prices."
     },
@@ -279,7 +279,7 @@
     },
     "team": {
       "title": "Human Resources",
-      "desc": "Thanh Mich IMEX is proud to have a professional and experienced team:",
+      "desc": "HAI PHAT IDC is proud to have a professional and experienced team:",
       "items": [
         "Consulting team: Well-versed in import-export regulations, experienced",
         "Customs procedures staff: Processing procedures quickly and accurately",
@@ -291,7 +291,7 @@
     "certificates": {
       "title": "Certifications & Permits",
       "items": [
-        "Business registration certificate: Tax ID 0108850813",
+        "Business registration certificate: Tax ID 0108441190",
         "Import-export license",
         "Reputable partner certification from international suppliers"
       ]
@@ -436,7 +436,7 @@
     "ctaTitle": "Need Consultation on Services?",
     "ctaDesc": "Contact us for detailed quote and free consultation",
     "ctaContact": "Contact Now",
-    "ctaCall": "Call: 0857 281 982"
+    "ctaCall": "Call: 0945 838 333"
   },
   "policies": {
     "pageTitle": "Policies",
@@ -448,14 +448,14 @@
         "title": "I. Privacy Policy for Website",
         "items": [
           "The website does not collect any personal information from users.",
-          "The website only provides information about THANH MICH IMPORT EXPORT AND TRADING PRODUCTION COMPANY LIMITED.",
+          "The website only provides information about HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY.",
           "The website does not use cookies, tracking codes, or any other tracking technology."
         ]
       },
       "mobile": {
         "title": "II. Privacy Policy for Mobile Application",
         "items": [
-          "The mobile application is only intended to introduce THANH MICH IMPORT EXPORT AND TRADING PRODUCTION COMPANY LIMITED and the company's import-export and trading services.",
+          "The mobile application is only intended to introduce HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY and the company's construction services.",
           "The application does not collect any personal data from users.",
           "The application does not require users to create an account or log in.",
           "The application does not track user behavior, activities, or location.",
@@ -466,7 +466,7 @@
     "warranty": {
       "title": "🛡️ Warranty Policy",
       "timeTitle": "Warranty Period",
-      "timeDesc": "Thanh Mich Import Export and Trading Production Company Limited commits to warranty product quality for customers with the following periods:",
+      "timeDesc": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY commits to warranty project quality for customers with the following periods:",
       "timeItems": {
         "furniture": "Furniture: 12 months from delivery date",
         "import": "Imported goods: According to manufacturer's warranty policy (minimum 6 months)",
@@ -634,7 +634,7 @@
     "ctaTitle": "Have Questions About Policies?",
     "ctaDesc": "Contact us for answers to your questions",
     "ctaContact": "Contact Now",
-    "ctaCall": "Call: 0857 281 982"
+    "ctaCall": "Call: 0945 838 333"
   },
   "process": {
     "pageTitle": "Production Process",
@@ -1157,14 +1157,14 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://thanhmichltd.store"
+        "value": "https://haiphatidc.store"
       }
     },
     "cta": {
       "title": "Need to Contact Us?",
       "desc": "We are ready to consult and support you",
       "contact": "Contact Now",
-      "call": "Call: 0857 281 982"
+      "call": "Call: 0945 838 333"
     }
   },
   "error404": {

@@ -1,34 +1,34 @@
 {
   "meta": {
     "index": {
-      "title": "Thanh Mich IMEX - Công Ty Xuất Nhập Khẩu Và Thương Mại Chuyên Nghiệp",
-      "description": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu, bán buôn nội thất và đồ dùng gia đình chất lượng cao"
+      "title": "HAI PHAT IDC - Công Ty Đầu Tư Phát Triển Và Xây Dựng Chuyên Nghiệp",
+      "description": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật"
     },
     "about": {
-      "title": "Giới thiệu - Thanh Mich IMEX | Công Ty Xuất Nhập Khẩu",
-      "description": "Giới thiệu về Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu và bán buôn nội thất với hơn 5 năm kinh nghiệm"
+      "title": "Giới thiệu - HAI PHAT IDC | Công Ty Xây Dựng",
+      "description": "Giới thiệu về Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình với hơn 6 năm kinh nghiệm"
     },
     "services": {
-      "title": "Dịch Vụ - Thanh Mich IMEX | Xuất Nhập Khẩu & Thương Mại",
-      "description": "Dịch vụ xuất nhập khẩu của Thanh Mich IMEX: Xuất nhập khẩu, bán buôn nội thất, dịch vụ thương mại. Chất lượng cao, giá cả cạnh tranh"
+      "title": "Dịch Vụ - HAI PHAT IDC | Xây Dựng Công Trình",
+      "description": "Dịch vụ xây dựng của HAI PHAT IDC: Xây dựng công trình dân dụng, công nghiệp, giao thông. Chất lượng cao, uy tín"
     },
     "contact": {
-      "title": "Liên Hệ - Thanh Mich IMEX | Tư Vấn Xuất Nhập Khẩu",
-      "description": "Liên hệ với Thanh Mich IMEX - Chuyên xuất nhập khẩu và bán buôn nội thất. Địa chỉ: Thôn Tế Giáp, Xã Hát Môn, TP Hà Nội. Điện thoại: 0857 281 982"
+      "title": "Liên Hệ - HAI PHAT IDC | Tư Vấn Xây Dựng",
+      "description": "Liên hệ với HAI PHAT IDC - Chuyên xây dựng công trình. Địa chỉ: Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, Hà Nội. Điện thoại: 0945 838 333"
     },
     "policies": {
-      "title": "Chính Sách - Thanh Mich IMEX | Bảo Hành - Giao Hàng - Đổi Trả",
-      "description": "Chính sách bảo hành, giao hàng và đổi trả của Thanh Mich IMEX. Cam kết chất lượng sản phẩm và dịch vụ tốt nhất cho khách hàng"
+      "title": "Chính Sách - HAI PHAT IDC | Bảo Hành - Giao Hàng - Đổi Trả",
+      "description": "Chính sách bảo hành, giao hàng và đổi trả của HAI PHAT IDC. Cam kết chất lượng công trình và dịch vụ tốt nhất cho khách hàng"
     },
     "privacy": {
-      "title": "Chính Sách Bảo Mật - Thanh Mich IMEX",
-      "description": "Chính sách bảo mật của Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Cam kết bảo vệ thông tin khách hàng"
+      "title": "Chính Sách Bảo Mật - HAI PHAT IDC",
+      "description": "Chính sách bảo mật của Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Cam kết bảo vệ thông tin khách hàng"
     }
   },
   "common": {
-    "logo": "THANH MICH IMEX",
+    "logo": "HAI PHAT IDC",
     "tagline": "Chất lượng - Uy tín - Chuyên nghiệp",
-    "phone": "0857 281 982",
+    "phone": "0945 838 333",
     "contactNow": "Liên hệ ngay",
     "nav": {
       "home": "Trang chủ",
@@ -41,21 +41,21 @@
       "contact": "Liên hệ"
     },
     "footer": {
-      "companyDesc": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu và bán buôn nội thất chất lượng cao",
-      "address": "Thôn Tế Giáp, Xã Hát Môn, TP Hà Nội, Việt Nam",
-      "email": "contact@thanhmichltd.store",
+      "companyDesc": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật",
+      "address": "Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, Thành phố Hà Nội, Việt Nam",
+      "email": "contact@haiphatidc.store",
       "services": "Dịch vụ",
       "info": "Thông tin",
       "support": "Hỗ trợ",
-      "importExport": "Xuất nhập khẩu",
-      "furniture": "Bán buôn nội thất",
-      "trading": "Dịch vụ thương mại",
-      "consulting": "Tư vấn kinh doanh",
+      "importExport": "Xây dựng công trình dân dụng",
+      "furniture": "Xây dựng công trình công nghiệp",
+      "trading": "Xây dựng công trình giao thông",
+      "consulting": "Xây dựng hạ tầng kỹ thuật",
       "warrantyPolicy": "Chính sách bảo hành",
       "deliveryPolicy": "Chính sách giao hàng",
       "returnPolicy": "Chính sách đổi trả",
       "companyInfo": "Thông tin doanh nghiệp",
-      "copyright": "2024 Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch. MST: 0108850813"
+      "copyright": "2024 Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát. MST: 0108441190"
     },
     "breadcrumb": {
       "home": "Trang chủ"
@@ -63,44 +63,44 @@
   },
   "index": {
     "hero": {
-      "title": "Chuyên Gia Xuất Nhập Khẩu Và Thương Mại",
-      "subtitle": "Dịch vụ xuất nhập khẩu chuyên nghiệp, bán buôn nội thất và đồ dùng gia đình chất lượng cao với tiêu chuẩn quốc tế",
+      "title": "Chuyên Gia Xây Dựng Công Trình",
+      "subtitle": "Dịch vụ xây dựng chuyên nghiệp, công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật với tiêu chuẩn quốc tế",
       "viewServices": "Xem dịch vụ",
       "getQuote": "Liên hệ ngay"
     },
     "services": {
       "title": "Dịch Vụ Chính",
-      "subtitle": "Chúng tôi cung cấp đầy đủ các giải pháp xuất nhập khẩu và thương mại",
+      "subtitle": "Chúng tôi cung cấp đầy đủ các giải pháp xây dựng công trình",
       "import": {
-        "title": "Dịch Vụ Xuất Nhập Khẩu",
-        "desc": "Dịch vụ xuất nhập khẩu chuyên nghiệp, hỗ trợ thủ tục hải quan, vận chuyển quốc tế",
+        "title": "Xây Dựng Công Trình Dân Dụng",
+        "desc": "Xây dựng nhà ở, chung cư, trường học, bệnh viện và các công trình dân dụng khác",
         "detail": "Chi tiết →"
       },
       "furniture": {
-        "title": "Bán Buôn Nội Thất",
-        "desc": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất chất lượng cao, giá cả cạnh tranh",
+        "title": "Xây Dựng Công Trình Công Nghiệp",
+        "desc": "Xây dựng nhà xưởng, nhà máy, kho bãi và các công trình công nghiệp chất lượng cao",
         "detail": "Chi tiết →"
       },
       "trading": {
-        "title": "Dịch Vụ Thương Mại",
-        "desc": "Dịch vụ thương mại toàn diện, hỗ trợ tìm nguồn hàng, đàm phán và ký kết hợp đồng",
+        "title": "Xây Dựng Công Trình Giao Thông",
+        "desc": "Xây dựng đường bộ, cầu, hầm và các công trình giao thông hiện đại",
         "detail": "Chi tiết →"
       },
       "consulting": {
-        "title": "Tư Vấn Kinh Doanh",
-        "desc": "Tư vấn về thủ tục xuất nhập khẩu, quy định pháp lý và chiến lược thương mại quốc tế",
+        "title": "Xây Dựng Hạ Tầng Kỹ Thuật",
+        "desc": "Xây dựng hệ thống cấp thoát nước, điện, viễn thông và hạ tầng kỹ thuật",
         "detail": "Chi tiết →"
       }
     },
     "whyChoose": {
-      "title": "Tại Sao Chọn Thanh Mich IMEX?",
+      "title": "Tại Sao Chọn HAI PHAT IDC?",
       "exp": {
         "title": "Kinh Nghiệm Chuyên Sâu",
-        "desc": "Hơn 5 năm kinh nghiệm trong lĩnh vực xuất nhập khẩu và thương mại, hiểu rõ thị trường quốc tế"
+        "desc": "Hơn 6 năm kinh nghiệm trong lĩnh vực xây dựng, đã hoàn thành nhiều dự án lớn nhỏ"
       },
       "quality": {
         "title": "Chất Lượng Đảm Bảo",
-        "desc": "Sản phẩm nội thất chất lượng cao, đảm bảo tiêu chuẩn quốc tế, độ bền và thẩm mỹ"
+        "desc": "Công trình xây dựng chất lượng cao, đảm bảo tiêu chuẩn kỹ thuật, độ bền và an toàn"
       },
       "price": {
         "title": "Giá Cả Cạnh Tranh",
@@ -145,11 +145,11 @@
       "satisfied": "Khách hàng hài lòng",
       "experience": "Năm kinh nghiệm"
     },
-    "cta": {
-      "title": "Bắt Đầu Hợp Tác Kinh Doanh Với Chúng Tôi Ngay Hôm Nay",
-      "subtitle": "Liên hệ với chúng tôi để nhận tư vấn miễn phí về dịch vụ xuất nhập khẩu",
+      "cta": {
+      "title": "Bắt Đầu Dự Án Xây Dựng Của Bạn Ngay Hôm Nay",
+      "subtitle": "Liên hệ với chúng tôi để nhận tư vấn miễn phí về dịch vụ xây dựng",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0857 281 982"
+      "call": "Gọi: 0945 838 333"
     }
   },
   "contact": {
@@ -219,29 +219,30 @@
   },
   "about": {
     "pageTitle": "Giới Thiệu Công Ty",
-    "pageSubtitle": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên gia xuất nhập khẩu và thương mại",
+    "pageSubtitle": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên gia xây dựng công trình",
     "breadcrumb": "Giới thiệu",
     "intro": {
-      "title": "Về Công Ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch",
-      "desc": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch được thành lập vào ngày 5 tháng 8 năm 2019, với mục tiêu trở thành đơn vị hàng đầu trong lĩnh vực xuất nhập khẩu và bán buôn nội thất tại Việt Nam. Với hơn 5 năm kinh nghiệm trong ngành thương mại quốc tế, chúng tôi tự hào là đối tác tin cậy của nhiều doanh nghiệp và khách hàng trong và ngoài nước."
+      "title": "Về Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát",
+      "desc": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát được thành lập vào ngày 24 tháng 9 năm 2018, với mục tiêu trở thành đơn vị hàng đầu trong lĩnh vực xây dựng công trình tại Việt Nam. Với hơn 6 năm kinh nghiệm trong ngành xây dựng, chúng tôi tự hào là đối tác tin cậy của nhiều doanh nghiệp và khách hàng trong và ngoài nước."
     },
     "mission": {
       "title": "Sứ Mệnh & Tầm Nhìn",
       "missionTitle": "Sứ Mệnh",
-      "missionDesc": "Chúng tôi cam kết mang đến dịch vụ xuất nhập khẩu chuyên nghiệp và sản phẩm nội thất chất lượng cao, đáp ứng mọi yêu cầu của khách hàng. Mỗi giao dịch đều thể hiện sự tâm huyết, chuyên nghiệp và trách nhiệm của đội ngũ Thanh Mich IMEX.",
+      "missionDesc": "Chúng tôi cam kết mang đến dịch vụ xây dựng chuyên nghiệp và công trình chất lượng cao, đáp ứng mọi yêu cầu của khách hàng. Mỗi dự án đều thể hiện sự tâm huyết, chuyên nghiệp và trách nhiệm của đội ngũ HAI PHAT IDC.",
       "visionTitle": "Tầm Nhìn",
-      "visionDesc": "Trở thành công ty xuất nhập khẩu và thương mại hàng đầu tại Việt Nam, được khách hàng tin tưởng lựa chọn nhờ chất lượng dịch vụ vượt trội, chuyên nghiệp và giá cả cạnh tranh."
+      "visionDesc": "Trở thành công ty xây dựng hàng đầu tại Việt Nam, được khách hàng tin tưởng lựa chọn nhờ chất lượng công trình vượt trội, chuyên nghiệp và giá cả cạnh tranh."
     },
     "activity": {
       "title": "Lĩnh Vực Hoạt Động",
-      "industry": "Bán buôn đồ dùng khác cho gia đình",
+      "industry": "Xây dựng công trình kỹ thuật dân dụng khác",
       "mainAreas": "Các lĩnh vực chính:",
       "areas": [
-        "Xuất nhập khẩu: Dịch vụ xuất nhập khẩu các mặt hàng nội thất và đồ dùng gia đình",
-        "Bán buôn nội thất: Giường, tủ, bàn ghế và đồ dùng nội thất tương tự",
-        "Dịch vụ thương mại: Tìm nguồn hàng, đàm phán, ký kết hợp đồng",
-        "Tư vấn kinh doanh: Tư vấn về thủ tục xuất nhập khẩu, quy định pháp lý",
-        "Vận chuyển quốc tế: Hỗ trợ vận chuyển và logistics"
+        "Xây dựng công trình dân dụng: Nhà ở, chung cư, trường học, bệnh viện",
+        "Xây dựng công trình công nghiệp: Nhà xưởng, nhà máy, kho bãi",
+        "Xây dựng công trình giao thông: Đường bộ, cầu, hầm",
+        "Xây dựng công trình nông nghiệp và phát triển nông thôn",
+        "Xây dựng hạ tầng kỹ thuật: Hệ thống cấp thoát nước, điện, viễn thông",
+        "Xây dựng công trình quốc phòng, an ninh"
       ]
     },
     "capacity": {
@@ -250,60 +251,60 @@
         "title": "Mạng Lưới Đối Tác",
         "desc": "Chúng tôi có mạng lưới đối tác rộng khắp trong và ngoài nước:",
         "items": [
-          "Đối tác nhập khẩu: Trung Quốc, Thái Lan, Malaysia, Indonesia",
-          "Đối tác xuất khẩu: Các thị trường châu Á, châu Âu, châu Mỹ",
-          "Nhà cung cấp nội thất: Các nhà máy sản xuất nội thất uy tín trong nước và quốc tế",
-          "Đối tác logistics: Các công ty vận chuyển quốc tế uy tín"
+          "Đối tác thiết kế: Các công ty thiết kế kiến trúc uy tín trong và ngoài nước",
+          "Nhà cung cấp vật liệu: Các nhà cung cấp vật liệu xây dựng chất lượng cao",
+          "Đối tác thi công: Các đội ngũ thi công chuyên nghiệp, giàu kinh nghiệm",
+          "Đối tác giám sát: Các đơn vị giám sát và quản lý dự án uy tín"
         ]
       },
       "volume": {
-        "title": "Khối Lượng Kinh Doanh",
-        "desc": "Với kinh nghiệm và mạng lưới đối tác, năng lực kinh doanh của chúng tôi:",
+        "title": "Năng Lực Thi Công",
+        "desc": "Với kinh nghiệm và đội ngũ chuyên nghiệp, năng lực thi công của chúng tôi:",
         "items": [
-          "Nhập khẩu nội thất: 500-1.000 container/năm",
-          "Bán buôn nội thất: Hàng trăm đơn hàng/tháng",
-          "Dịch vụ xuất nhập khẩu: Hỗ trợ hàng trăm giao dịch/năm",
-          "Dịch vụ thương mại: Kết nối hàng trăm đối tác trong và ngoài nước"
+          "Công trình dân dụng: Hàng chục dự án/năm",
+          "Công trình công nghiệp: Nhiều nhà xưởng, nhà máy đã hoàn thành",
+          "Công trình giao thông: Đường bộ, cầu với tổng chiều dài hàng chục km",
+          "Hạ tầng kỹ thuật: Nhiều dự án hệ thống cấp thoát nước, điện"
         ]
       },
       "services": {
         "title": "Dịch Vụ & Chất Lượng",
         "desc": "Chúng tôi cung cấp các dịch vụ chuyên nghiệp:",
         "items": [
-          "Thủ tục hải quan: Hỗ trợ hoàn thiện thủ tục nhanh chóng, chính xác",
-          "Vận chuyển quốc tế: Đường biển, đường hàng không, đường bộ",
-          "Tư vấn pháp lý: Hỗ trợ về quy định xuất nhập khẩu, thuế, phí",
-          "Kiểm tra chất lượng: Đảm bảo hàng hóa đúng tiêu chuẩn trước khi giao"
+          "Thiết kế và thi công: Từ thiết kế đến hoàn thiện công trình",
+          "Quản lý dự án: Quản lý toàn bộ quá trình thi công, đảm bảo tiến độ",
+          "Tư vấn kỹ thuật: Hỗ trợ về giải pháp kỹ thuật, vật liệu xây dựng",
+          "Kiểm tra chất lượng: Đảm bảo công trình đúng tiêu chuẩn, an toàn"
         ]
       }
     },
     "team": {
       "title": "Đội Ngũ Nhân Sự",
-      "desc": "Thanh Mich IMEX tự hào sở hữu đội ngũ nhân viên chuyên nghiệp và giàu kinh nghiệm:",
-      "items": [
-        "Đội ngũ tư vấn: Am hiểu quy định xuất nhập khẩu, giàu kinh nghiệm",
-        "Nhân viên thủ tục hải quan: Xử lý thủ tục nhanh chóng, chính xác",
-        "Nhân viên kinh doanh: Kết nối khách hàng với nhà cung cấp uy tín",
-        "Nhân viên logistics: Quản lý vận chuyển và kho bãi hiệu quả",
-        "Nhân viên QC: Kiểm tra chất lượng hàng hóa nghiêm ngặt"
-      ]
-    },
-    "certificates": {
-      "title": "Chứng Nhận & Giấy Phép",
-      "items": [
-        "Giấy chứng nhận đăng ký kinh doanh: MST 0108850813",
-        "Giấy phép xuất nhập khẩu",
-        "Chứng nhận đối tác uy tín từ các nhà cung cấp quốc tế"
-      ]
-    },
-    "contact": {
-      "title": "Địa Chỉ & Liên Hệ",
-      "headquarters": "Trụ sở chính:",
-      "phone": "Điện thoại:",
-      "email": "Email:",
-      "workingHours": "Thời gian làm việc:",
-      "hours": "Thứ 2 - Thứ 7: 8:00 - 17:00 | Chủ nhật: 8:00 - 12:00"
-    }
+      "desc": "HAI PHAT IDC tự hào sở hữu đội ngũ nhân viên chuyên nghiệp và giàu kinh nghiệm:",
+        "items": [
+          "Đội ngũ kỹ sư: Am hiểu kỹ thuật xây dựng, giàu kinh nghiệm",
+          "Nhân viên thiết kế: Thiết kế công trình chuyên nghiệp, sáng tạo",
+          "Nhân viên quản lý dự án: Quản lý tiến độ và chất lượng hiệu quả",
+          "Nhân viên thi công: Đội ngũ thợ lành nghề, chuyên nghiệp",
+          "Nhân viên QC: Kiểm tra chất lượng công trình nghiêm ngặt"
+        ]
+      },
+      "certificates": {
+        "title": "Chứng Nhận & Giấy Phép",
+        "items": [
+          "Giấy chứng nhận đăng ký kinh doanh: MST 0108441190",
+          "Giấy phép hoạt động xây dựng",
+          "Chứng nhận đối tác uy tín từ các chủ đầu tư"
+        ]
+      },
+      "contact": {
+        "title": "Địa Chỉ & Liên Hệ",
+        "headquarters": "Trụ sở chính:",
+        "phone": "Điện thoại:",
+        "email": "Email:",
+        "workingHours": "Thời gian làm việc:",
+        "hours": "Thứ 2 - Thứ 7: 8:00 - 17:00 | Chủ nhật: 8:00 - 12:00"
+      }
   },
   "services": {
     "pageTitle": "Dịch Vụ Xuất Nhập Khẩu & Thương Mại",
@@ -436,7 +437,7 @@
     "ctaTitle": "Bạn Cần Tư Vấn Về Dịch Vụ?",
     "ctaDesc": "Liên hệ với chúng tôi để nhận báo giá chi tiết và tư vấn miễn phí",
     "ctaContact": "Liên hệ ngay",
-    "ctaCall": "Gọi: 0857 281 982"
+    "ctaCall": "Gọi: 0945 838 333"
   },
   "policies": {
     "pageTitle": "Chính Sách",
@@ -633,7 +634,7 @@
     "ctaTitle": "Bạn Có Câu Hỏi Về Chính Sách?",
     "ctaDesc": "Liên hệ với chúng tôi để được giải đáp thắc mắc",
     "ctaContact": "Liên hệ ngay",
-    "ctaCall": "Gọi: 0857 281 982"
+    "ctaCall": "Gọi: 0945 838 333"
   },
   "process": {
     "pageTitle": "Quy Trình Sản Xuất",
@@ -1134,17 +1135,17 @@
       "title": "Thông Tin Ngành Nghề Kinh Doanh",
       "mainIndustry": {
         "label": "Ngành nghề chính:",
-        "value": "Bán buôn đồ dùng khác cho gia đình"
+        "value": "Xây dựng công trình kỹ thuật dân dụng khác"
       },
       "activityAreas": {
         "label": "Lĩnh vực hoạt động:",
         "items": [
-          "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự",
-          "Dịch vụ xuất nhập khẩu",
-          "Dịch vụ thương mại quốc tế",
-          "Tư vấn kinh doanh xuất nhập khẩu",
-          "Vận chuyển và logistics",
-          "Tìm nguồn hàng và đàm phán hợp đồng"
+          "Xây dựng công trình dân dụng: Nhà ở, chung cư, trường học, bệnh viện",
+          "Xây dựng công trình công nghiệp: Nhà xưởng, nhà máy, kho bãi",
+          "Xây dựng công trình giao thông: Đường bộ, cầu, hầm",
+          "Xây dựng công trình nông nghiệp và phát triển nông thôn",
+          "Xây dựng hạ tầng kỹ thuật: Hệ thống cấp thoát nước, điện, viễn thông",
+          "Xây dựng công trình quốc phòng, an ninh"
         ]
       }
     },
@@ -1156,14 +1157,14 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://thanhmichltd.store"
+        "value": "https://haiphatidc.store"
       }
     },
     "cta": {
       "title": "Bạn Cần Liên Hệ Với Chúng Tôi?",
       "desc": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0857 281 982"
+      "call": "Gọi: 0945 838 333"
     }
   },
   "error404": {
